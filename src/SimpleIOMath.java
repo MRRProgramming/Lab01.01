@@ -3,7 +3,7 @@ import java.util.Scanner;
  * Asks user for some data and outputs text based on that input
  * @version 09.17.2025
  * @ author mradhakrishnan
- * Flint session:
+ * Flint session: https://app.flintk12.com/chats/63b1d682-5b08-416f-a5ce-a4c047c5ed5e
  */
 
 public class SimpleIOMath {
